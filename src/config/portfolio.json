@@ -1,0 +1,123 @@
+{
+  "personal": {
+    "name": "Abhay Rajpoot",
+    "role": "Full Stack Developer",
+    "description": "I build scalable, responsive, and AI-integrated applications for the web and mobile platforms.",
+    "avatar": "/avatar.jpg",
+    "location": "Bhubaneswar, India",
+    "email": "abhayrajpoot941@gmail.com",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/abhayrajput87"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/abhay-rajpoot-145131219/"
+      },
+      {
+        "platform": "LeetCode",
+        "url": "https://leetcode.com/u/ahuise/"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Passionate about building innovative, efficient, and user-centric software solutions. Skilled in both frontend and backend development, with experience in cloud deployment and AI-based app integration.",
+    "resume": "/abhayresume.pdf"
+  },
+  "projects": [
+    {
+      "title": "BuildEx",
+      "description": "An automated platform for deploying React apps using GitHub repositories, AWS ECR, ECS, and S3.",
+      "tags": ["AWS", "Docker", "Node.js", "React.js"],
+      "image": "https://placehold.co/600x400?text=BuildEx",
+      "url": "#",
+      "github": "#"
+    },
+    {
+      "title": "MindMatch",
+      "description": "A feature-rich social media application with post management, interactions, and secure authentication.",
+      "tags": ["MERN Stack", "JWT", "Redux", "Material UI"],
+      "image": "https://placehold.co/600x400?text=MindMatch",
+      "url": "#",
+      "github": "#"
+    },
+    {
+      "title": "ASPCC IIITBh Website",
+      "description": "Official college conference website built with React and TailwindCSS, serving 1000+ users.",
+      "tags": ["React", "TailwindCSS", "Netlify"],
+      "image": "https://placehold.co/600x400?text=ASPCC+IIITBh",
+      "url": "#",
+      "github": "#"
+    }
+  ],
+  "skills": [
+    { "name": "JavaScript" },
+    { "name": "TypeScript" },
+    { "name": "React.js" },
+    { "name": "React Native" },
+    { "name": "Node.js" },
+    { "name": "Express.js" },
+    { "name": "MongoDB" },
+    { "name": "C/C++" },
+    { "name": "Python" },
+    { "name": "SQL" },
+    { "name": "PostgreSql" },
+    { "name": "Prisma ORM" },
+    { "name": "Docker" },
+    { "name": "AWS ECS ECR S3" },
+    { "name": "HTML/CSS" },
+    { "name": "Bootstrap" },
+    { "name": "TailwindCSS" },
+    { "name": "MaterialUI" },
+    { "name": "Git" },
+    { "name": "Postman" },
+    { "name": "Jira" }
+  ],
+  "experience": [
+    {
+      "company": "Maximl, Bangalore",
+      "role": "SDE Intern",
+      "startDate": "January 2025",
+      "endDate": "Present",
+      "responsibilities": [
+        "Built an AI-powered safety compliance app with React Native and Expo.",
+        "Automated permit approvals using image metadata analysis.",
+        "Developed an offline-first chat system with Azure and lazy loading.",
+        "Reduced app load times by replacing AsyncStorage with MMKV."
+      ]
+    },
+    {
+      "company": "CouponExpress, Remote",
+      "role": "MERN Stack Developer",
+      "startDate": "September 2023",
+      "endDate": "November 2023",
+      "responsibilities": [
+        "Developed coupon search and filtering features, increasing user engagement.",
+        "Enhanced website UI for responsiveness across devices.",
+        "Optimized admin panel UI for quicker task completion."
+      ]
+    },
+    {
+      "company": "Tech Society - IIIT Bh",
+      "role": "Developer Volunteer",
+      "startDate": "January 2023",
+      "endDate": "March 2024",
+      "responsibilities": [
+        "Developed and maintained college society websites using React and Next.js.",
+        "Created interactive designs for college tech events."
+      ]
+    },
+    {
+      "company": "TARS Society",
+      "role": "Core Member",
+      "startDate": "May 2023",
+      "endDate": "November 2023",
+      "responsibilities": [
+        "Built a functional line follower robot using Arduino.",
+        "Organized workshops and trained over 100 peers in robotics basics."
+      ]
+    }
+  ]
+}
