@@ -28,29 +28,30 @@
   },
   "projects": [
     {
-      "title": "BuildEx",
-      "description": "An automated platform for deploying React apps using GitHub repositories, AWS ECR, ECS, and S3.",
-      "tags": ["AWS", "Docker", "Node.js", "React.js"],
-      "image": "https://placehold.co/600x400?text=BuildEx",
-      "url": "#",
-      "github": "#"
+      "title": "ASPCC IIITBh Website",
+      "description": "Official college conference website built with React and TailwindCSS, serving 1000+ users.",
+      "tags": ["React", "TailwindCSS", "Netlify"],
+      "image": "https://placehold.co/600x400?text=ASPCC+IIITBh",
+      "url": "https://aspcc-iiitbbsr.com/",
+      "github": "https://github.com/abhayrajput87/IEEE-IIITbh"
     },
     {
       "title": "MindMatch",
       "description": "A feature-rich social media application with post management, interactions, and secure authentication.",
       "tags": ["MERN Stack", "JWT", "Redux", "Material UI"],
       "image": "https://placehold.co/600x400?text=MindMatch",
-      "url": "#",
-      "github": "#"
+      "url": "https://github.com/abhayrajput87/MindMatch",
+      "github": "https://github.com/abhayrajput87/MindMatch"
     },
     {
-      "title": "ASPCC IIITBh Website",
-      "description": "Official college conference website built with React and TailwindCSS, serving 1000+ users.",
-      "tags": ["React", "TailwindCSS", "Netlify"],
-      "image": "https://placehold.co/600x400?text=ASPCC+IIITBh",
-      "url": "#",
-      "github": "#"
+      "title": "BuildEx",
+      "description": "An automated platform for deploying React apps using GitHub repositories, AWS ECR, ECS, and S3.",
+      "tags": ["AWS", "Docker", "Node.js", "React.js"],
+      "image": "https://placehold.co/600x400?text=BuildEx",
+      "url": "https://github.com/abhayrajput87/Buildex",
+      "github": "https://github.com/abhayrajput87/Buildex"
     }
+    
   ],
   "skills": [
     { "name": "JavaScript" },
